@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I struggled a bit with making a repositiory because it would change the pathway and I wouldn't be able to edit the code anymore. Once the video was posted and I asked for help on the Slack page, I figured it out. 
 I had orginally created an entire settings page, with a dark mode and a method to change each of the default tip values. However, I constantly find myself struggling with this form of code. So I chose to forgo that for now, and come back to that when I have learned more about Swift code. It was hard to know about functions like created the settings page, where the values have to remembered across the different code pages, and the animations because I haven't encountered anything like that in the other codes I have done before. 
 
